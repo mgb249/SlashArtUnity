@@ -6,4 +6,5 @@ Logs/*
 Packages/*
 !ProjectSettings
 ProjectSettings/*
-
+!Temp/
+Temp/*
