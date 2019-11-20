@@ -1,0 +1,9 @@
+!Library/
+Library/*
+!Logs/
+Logs/*
+!Packages/
+Packages/*
+!ProjectSettings
+ProjectSettings/*
+
